@@ -1,0 +1,101 @@
+infant_id,sex,age_months,site,pcr_at_birth,pcr_6_weeks,pcr_9_months,final_result
+1,Male,12,CS Muculuone,,1.0,0.0,Negative
+2,Female,9,CS Muculuone,1.0,0.0,0.0,Negative
+3,Male,12,CS Namicopo,,1.0,0.0,Negative
+4,Male,9,CS Muchico,1.0,1.0,,Negative
+5,Male,6,CS Muchico,1.0,1.0,0.0,Negative
+6,Female,12,CS Muculuone,0.0,1.0,,Positive
+7,Male,0,CS Muchico,0.0,1.0,,Lost to follow-up
+8,Male,1,CS Muchico,0.0,1.0,,Negative
+9,Male,0,CS Namicopo,1.0,1.0,1.0,Positive
+10,Female,6,CS Namicopo,1.0,1.0,1.0,Positive
+11,Male,6,CS Namicopo,1.0,,1.0,Negative
+12,Male,1,CS Namicopo,0.0,1.0,,Negative
+13,Male,9,CS Muculuone,1.0,1.0,1.0,Negative
+14,Male,6,CS Namicopo,,0.0,0.0,Negative
+15,Female,1,CS Muchico,1.0,0.0,1.0,Negative
+16,Male,6,CS Muculuone,1.0,1.0,0.0,Negative
+17,Female,1,CS Muchico,0.0,1.0,,Lost to follow-up
+18,Female,9,CS Muchico,0.0,1.0,,Positive
+19,Female,0,CS Muchico,,1.0,1.0,Negative
+20,Male,12,CS Namicopo,1.0,,,Negative
+21,Female,9,CS Namicopo,1.0,0.0,0.0,Negative
+22,Male,1,CS Muculuone,1.0,1.0,1.0,Negative
+23,Female,0,CS Muculuone,,1.0,0.0,Negative
+24,Female,9,CS Namicopo,1.0,,1.0,Lost to follow-up
+25,Female,9,CS Muchico,1.0,1.0,1.0,Negative
+26,Female,9,CS Muculuone,1.0,1.0,0.0,Lost to follow-up
+27,Female,9,CS Namicopo,1.0,1.0,1.0,Lost to follow-up
+28,Female,0,CS Namicopo,1.0,1.0,1.0,Negative
+29,Female,6,CS Namicopo,1.0,,1.0,Positive
+30,Female,1,CS Muchico,1.0,,1.0,Negative
+31,Male,9,CS Namicopo,0.0,0.0,1.0,Negative
+32,Male,6,CS Namicopo,,1.0,0.0,Negative
+33,Female,6,CS Namicopo,1.0,0.0,0.0,Positive
+34,Female,0,CS Namicopo,1.0,1.0,0.0,Negative
+35,Female,6,CS Muculuone,0.0,1.0,,Lost to follow-up
+36,Male,6,CS Muculuone,1.0,1.0,0.0,Lost to follow-up
+37,Female,9,CS Namicopo,1.0,0.0,0.0,Negative
+38,Male,6,CS Muchico,1.0,0.0,1.0,Lost to follow-up
+39,Male,9,CS Muculuone,1.0,1.0,1.0,Negative
+40,Male,6,CS Namicopo,0.0,0.0,1.0,Negative
+41,Male,1,CS Muculuone,1.0,1.0,1.0,Negative
+42,Male,9,CS Muculuone,0.0,1.0,0.0,Negative
+43,Female,9,CS Muchico,1.0,1.0,1.0,Positive
+44,Female,6,CS Namicopo,1.0,1.0,,Negative
+45,Female,9,CS Namicopo,1.0,1.0,,Negative
+46,Female,6,CS Muchico,1.0,1.0,0.0,Lost to follow-up
+47,Female,6,CS Muchico,0.0,1.0,1.0,Negative
+48,Male,6,CS Namicopo,1.0,1.0,1.0,Negative
+49,Female,0,CS Namicopo,1.0,1.0,,Negative
+50,Female,1,CS Muchico,0.0,1.0,,Positive
+51,Male,0,CS Muculuone,1.0,1.0,1.0,Negative
+52,Female,6,CS Muculuone,1.0,1.0,0.0,Lost to follow-up
+53,Male,6,CS Muchico,1.0,1.0,1.0,Positive
+54,Female,6,CS Muculuone,1.0,1.0,1.0,Negative
+55,Male,12,CS Muchico,0.0,1.0,1.0,Negative
+56,Female,1,CS Muculuone,1.0,1.0,1.0,Negative
+57,Female,6,CS Muculuone,1.0,,,Negative
+58,Male,9,CS Namicopo,1.0,1.0,0.0,Negative
+59,Male,1,CS Namicopo,0.0,1.0,1.0,Negative
+60,Male,0,CS Muculuone,1.0,,0.0,Negative
+61,Male,1,CS Muculuone,1.0,1.0,,Negative
+62,Male,1,CS Namicopo,,1.0,,Negative
+63,Male,12,CS Namicopo,0.0,1.0,1.0,Negative
+64,Male,9,CS Namicopo,0.0,1.0,1.0,Negative
+65,Male,6,CS Muchico,1.0,0.0,1.0,Negative
+66,Female,9,CS Muculuone,1.0,1.0,1.0,Negative
+67,Female,9,CS Namicopo,1.0,1.0,1.0,Negative
+68,Male,1,CS Muculuone,1.0,1.0,0.0,Negative
+69,Female,9,CS Muchico,1.0,0.0,1.0,Lost to follow-up
+70,Female,6,CS Muchico,0.0,1.0,1.0,Negative
+71,Female,9,CS Namicopo,1.0,1.0,1.0,Lost to follow-up
+72,Female,9,CS Muchico,,1.0,1.0,Negative
+73,Male,6,CS Muculuone,1.0,0.0,1.0,Negative
+74,Female,1,CS Namicopo,0.0,1.0,1.0,Lost to follow-up
+75,Male,1,CS Muculuone,1.0,1.0,1.0,Negative
+76,Female,6,CS Muculuone,1.0,1.0,1.0,Negative
+77,Female,9,CS Muchico,0.0,1.0,1.0,Negative
+78,Female,9,CS Muchico,1.0,1.0,0.0,Negative
+79,Male,0,CS Muchico,1.0,1.0,1.0,Negative
+80,Female,6,CS Muchico,,1.0,1.0,Negative
+81,Male,6,CS Muchico,0.0,1.0,1.0,Lost to follow-up
+82,Female,1,CS Namicopo,1.0,,,Negative
+83,Male,1,CS Muculuone,1.0,0.0,1.0,Negative
+84,Female,6,CS Muculuone,1.0,1.0,0.0,Negative
+85,Male,12,CS Muculuone,0.0,,,Negative
+86,Male,6,CS Muculuone,1.0,1.0,1.0,Negative
+87,Female,6,CS Muchico,1.0,1.0,,Negative
+88,Male,9,CS Muculuone,1.0,1.0,0.0,Negative
+89,Female,6,CS Namicopo,1.0,1.0,1.0,Negative
+90,Female,12,CS Namicopo,0.0,1.0,1.0,Negative
+91,Female,12,CS Muculuone,1.0,1.0,0.0,Negative
+92,Female,1,CS Muculuone,,1.0,1.0,Lost to follow-up
+93,Female,6,CS Namicopo,1.0,1.0,,Negative
+94,Female,6,CS Namicopo,1.0,,1.0,Negative
+95,Female,1,CS Muchico,1.0,0.0,0.0,Lost to follow-up
+96,Female,0,CS Namicopo,1.0,1.0,1.0,Negative
+97,Female,6,CS Muchico,,,,Lost to follow-up
+98,Female,6,CS Muchico,0.0,,0.0,Negative
+99,Female,0,CS Muchico,1.0,,1.0,Positive
+100,Male,1,CS Muchico,0.0,1.0,1.0,Negative
